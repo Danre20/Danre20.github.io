@@ -16,6 +16,9 @@ a {
     transition: all 0.2s;
 }
 
+.alertbar img {
+        width: 39px;
+    }
 a:hover {
     color: #038252;
     text-decoration: none;
@@ -305,7 +308,7 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial;
 }
 
 .mainheading h1.posttitle {
@@ -408,9 +411,7 @@ blockquote {
         padding-right: 14px !Important;
     }
 
-    .alertbar img {
-        width: 39px;
-    }
+
 
     #comments {
         margin-right: 15px;
