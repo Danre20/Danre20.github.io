@@ -305,7 +305,7 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: Righteous;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .mainheading h1.posttitle {
@@ -406,6 +406,10 @@ blockquote {
         margin-top: 20px;
         box-shadow: none !Important;
         padding-right: 14px !Important;
+    }
+
+    .alertbar img {
+        width: 39px;
     }
 
     #comments {
